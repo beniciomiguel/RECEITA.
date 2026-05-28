@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    -webkit-font-smoothing: antlissed;
 }
 
 body{
@@ -102,3 +103,4 @@ hr{
     color: #854632;
     font-weight: 700;
 }
+
